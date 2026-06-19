@@ -1,10 +1,21 @@
-# 📊 Children's Clothing Sales Dashboard
+# 📊 Children's Clothing Sales Dashboard   [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bassemsalah019-debug.github.io/PROJECT-DATA-1/)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
 ![Chart.js](https://img.shields.io/badge/Chart.js-4-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-An interactive executive analytics dashboard for children's clothing sales, designed to provide business insights through KPIs, data visualization, customer analytics, and product performance tracking.
 
+## 👨‍💻 Author
+
+**Bassem Salah**
+
+ Petroleum Engineer | Data Analytics | AI Engineer
+
+LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bassemsalahpd/)
+
+Email: [bassemsalah019@gmail.com](mailto:bassemsalah019@gmail.com)
+
+
+An interactive executive analytics dashboard for children's clothing sales, designed to provide business insights through KPIs, data visualization, customer analytics, and product performance tracking.
 ## 🚀 Features
 
 ### Executive KPIs
@@ -174,16 +185,5 @@ Detailed transactional records with export functionality.
 * Advanced Filters
 * Multi-language Support
 
----
-
-## 👨‍💻 Author
-
-**Bassem Salah**
-
- Petroleum Engineer | Data Analytics | AI Engineer
-
-LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bassemsalahpd/)
-
-Email: [bassemsalah019@gmail.com](mailto:bassemsalah019@gmail.com)
 
 
